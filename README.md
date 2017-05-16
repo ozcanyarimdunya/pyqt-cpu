@@ -4,5 +4,5 @@
 
 
 -----------------
-| [@ozcaan11](https://twitter.com/ozcaan11)
+| [website](http://www.semiworld.org/)
 -----------------
