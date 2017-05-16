@@ -1,6 +1,8 @@
 """
     This app created by @ozcaan11
     Özcan Yarımdünya / semiworld.org
+    
+    :required library => pyqt5, psutils
 """
 
 import sys
