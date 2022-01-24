@@ -1,9 +1,17 @@
 ## CPU Notifier
 
-This is a simple app that show the cpu usage in the task bar.
+This is a simple app that show the cpu usage in the system bar.
 
-![](cpu.gif)
+![screenshot](screenshot.png)
 
-## How to install
+## Installation
 
-Download executable version from [(this link)](https://github.com/ozcanyarimdunya/pyqt5-cpu/releases) based on your operating system
+```shell
+poetry install
+```
+
+## Usage
+
+```shell
+python notifier.py
+```

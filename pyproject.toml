@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pyqt5-cpu"
+version = "0.1.0"
+description = ""
+authors = ["Ozcan Yarimdunya <ozcan.yarimdunya@sahibinden.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+psutil = "^5.9.0"
+PyQt6 = "^6.2.2"
+
+[tool.poetry.dev-dependencies]
+pre-commit = "^2.17.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
